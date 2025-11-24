@@ -1,11 +1,4 @@
 // src/App.js
-// --------------------------------------
-// Simple UI for the Bergen rain checker.
-// - No inputs, always uses Bergen
-// - "Refresh" button to call the backend
-// - Shows current weather
-// - If raining: tells when it will stop
-// - If dry: tells when it will start raining
 
 import React, { useEffect, useState } from "react";
 

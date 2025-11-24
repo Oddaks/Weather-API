@@ -23,7 +23,7 @@ API_KEY = "044c2a14177a4bb0b01110212253009"
 BASE_URL = "https://api.weatherapi.com/v1/forecast.json"
 
 # How many hours into the future we look
-WINDOW_HOURS = 24
+WINDOW_HOURS = 6
 
 
 def is_rain_hour(hour_obj):
