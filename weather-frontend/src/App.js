@@ -51,7 +51,7 @@ function App() {
       ? "#444"
       : rainNowOrSoon
       ? "#b71c1c" 
-      : "#1b5e20"; 
+      : "#16571aff"; 
 
   let statusText = "No data yet";
 
